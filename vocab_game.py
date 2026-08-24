@@ -99,4 +99,4 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2)
 
 st.divider()
-  st.write("นางธีธัช แก้วดี เลขที่ 11 ม.4/3")
+  st.write("นายธีธัช แก้วดี เลขที่ 11 ม.4/3")
