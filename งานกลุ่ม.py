@@ -121,15 +121,15 @@ ans2 = st.text_input(
     value=st.session_state.ans2_val,
 )
 ans3 = st.text_input(
-    "ข้อ 2: ใครคือผู้สร้างโลกใบนี้ (ข่าวดังในไทย)",
+    "ข้อ 3: ใครคือผู้สร้างโลกใบนี้ (ข่าวดังในไทย)",
     value=st.session_state.ans2_val,
 )
 ans4 = st.text_input(
-    "ข้อ 2: Mango + Mustard = “_ _”   (HARD)",
+    "ข้อ 4: Mango + Mustard = “_ _”   (HARD)",
     value=st.session_state.ans2_val,
 )
 ans5 = st.text_input(
-    "ข้อ 2: เคยมั่นใจว่าเหนือกว่า”   ใครคือราชาของเพลงนี้",
+    "ข้อ 5: เคยมั่นใจว่าเหนือกว่า”   ใครคือราชาของเพลงนี้",
     value=st.session_state.ans2_val,
 )
 # อัปเดตค่าล่าสุดเข้าตัวแปร
